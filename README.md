@@ -4,5 +4,5 @@
 **Інсталяція**  
 Завантажити та встановити [python](https://www.python.org/)  
 Встановити бібліотеку **bs4** командою **pip install bs4**    
-Встановити бібліотеку **requests** командою **pip install requests**
-
+Встановити бібліотеку **requests** командою **pip install requests**  
+![](work.png)
